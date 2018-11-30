@@ -249,3 +249,4 @@ controller:
     annotations:
       domainName: "kubernetes-example.com"
 ```
+# ingress
